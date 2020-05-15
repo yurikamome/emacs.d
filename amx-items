@@ -1,0 +1,29 @@
+
+;; ----- amx-history -----
+(
+ shell
+ load-theme
+ color-theme-select
+ color-theme-sanityinc-solarized-dark
+ cd
+ 5x5
+ amx
+)
+
+;; ----- amx-data -----
+(
+ (color-theme-select . 3)
+ (color-theme-snow . 1)
+ (color-theme-gnome . 5)
+ (color-theme-gray30 . 1)
+ (color-theme-black-on-gray . 1)
+ (color-theme-xemacs . 1)
+ (color-theme-gtk-ide . 2)
+ (color-theme-sanityinc-solarized-dark . 1)
+ (color-theme-dark-erc . 1)
+ (color-theme-euphoria . 1)
+ (load-theme . 9)
+ (color-theme-classic . 4)
+ (shell . 5)
+ (color-theme-wheat . 1)
+)

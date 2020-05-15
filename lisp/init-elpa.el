@@ -83,7 +83,7 @@
     counsel-gtags ; the stable version is never released
     noflet
     db
-    package-lint
+;;    package-lint
     creole
     web
     buffer-move
@@ -306,7 +306,7 @@ PACKAGE is a symbol, VERSION is a vector as produced by `version-to-list', and
 (require-package 'web-mode)
 (require-package 'dumb-jump)
 (require-package 'emms)
-(require-package 'package-lint) ; lint package before submit it to MELPA
+;;(require-package 'package-lint) ; lint package before submit it to MELPA
 (require-package 'iedit)
 ;;(require-package 'bash-completion)
 (require-package 'websocket) ; for debug debugging of browsers

@@ -877,7 +877,7 @@ If no region is selected. You will be asked to use `kill-ring' or clipboard inst
 ;; }}
 
 ;; @see https://github.com/szermatt/emacs-bash-completion
-(bash-completion-setup)
+;;(bash-completion-setup)
 
 (eval-after-load 'grep
   '(progn

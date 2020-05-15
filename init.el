@@ -3,7 +3,7 @@
 
 ;; Without this comment emacs25 adds (package-initialize) here
 ;; (package-initialize)
-
+(setq-default shell-file-name "/bin/bash")
 (push (expand-file-name "~/.emacs.d/lisp") load-path)
 
 (let* ((minver "24.4"))

@@ -302,10 +302,6 @@ Display a list of packages.
 
 ;;;***
 
-;;;### (autoloads nil nil ("el-get/el-get-install.el") (0 0 0 0))
-
-;;;***
-
 ;; Local Variables:
 ;; version-control: never
 ;; no-update-autoloads: t

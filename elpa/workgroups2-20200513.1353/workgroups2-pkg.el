@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "workgroups2" "20200513.1353" "New workspaces for Emacs" '((cl-lib "0.4") (dash "2.8.0") (anaphora "1.0.0") (f "0.17")) :commit "7f2a9c6603d26455d800d83d98e0700202bf3992" :keywords '("session" "management" "window-configuration" "persistence") :authors '(("Sergey Pashinin <sergey at pashinin dot com>")) :maintainer '("Sergey Pashinin <sergey at pashinin dot com>") :url "https://github.com/pashinin/workgroups2")
